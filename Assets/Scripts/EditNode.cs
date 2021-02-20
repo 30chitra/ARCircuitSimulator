@@ -5,7 +5,7 @@ using System;
 
 public class EditNode : MonoBehaviour 
 {
-    // Start is called before the first frame update
+    
 
        private float FirstClickTIme , TimeBetweenClicks;
        private bool CoroutineAllowed;
