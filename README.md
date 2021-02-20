@@ -1,7 +1,7 @@
 
 <h1 align="Center">  Hi, There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , We are Team MARSians<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-<h2 align="Center">AR AND P SPICE CIRCUIT SIMULATOR</h2>
+<h2 align="Center">AR AND P-SPICE CIRCUIT SIMULATOR</h2>
 
 <h3 align="Center">Approach to the Solution:🚀</h3>
 We aimed to create  an environment that will enable user to interact with 3D model as if they were real objects.
