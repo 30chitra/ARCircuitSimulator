@@ -47,9 +47,7 @@ public class LR_Testing : MonoBehaviour
         
         if (Input.GetMouseButtonDown(0)&& !IsPointerOverUIObject())
         {
-            // Instantiate(Point, pointPos, Quaternion.identity);
-            // Points.Add(Point.transform.position);
-            // line.DrawLine(Points);
+          
             if (!NodeDictionary.ContainsKey(pointPos) )
             {
                 
@@ -64,8 +62,7 @@ public class LR_Testing : MonoBehaviour
               line.DrawLine(Points);
               // for (int i = 0; i < Points.Count; i++)
               // {
-              //     Debug.Log(Points[i]);
-              //     // Debug.Log(NodeDictionary[TempNode.transform.position]);
+              //    
               // }
               
             }
