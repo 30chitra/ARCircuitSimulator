@@ -9,7 +9,7 @@ using UnityEngine.EventSystems;
 public class instantiate : MonoBehaviour
 {
     public static GameObject component = null;
-    // public Camera maincamera;
+   
     Vector3 touchPos;
 
     public Dictionary<Vector3,Vector3> ComponentDictionary = new Dictionary<Vector3,Vector3>();
