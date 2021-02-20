@@ -11,7 +11,7 @@ public class spawnexp : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // exp = Resources.Load<GameObject>("expmodel/" + showmodel.expname);
+        
        
     }
 
