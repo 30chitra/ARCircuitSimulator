@@ -10,6 +10,8 @@ Plan was to create an environment with the help of AR to solve this problem.
 We are creating an interactive system for the user to get in touch with other users while performing experiments virtually.
 We are creating a 3D alternative that will give the user the real experience with virtual models. 
 
+try kar raha hu
+
 
 
 
