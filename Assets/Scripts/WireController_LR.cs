@@ -7,9 +7,7 @@ public class WireController_LR : MonoBehaviour
 
     private LineRenderer LR;
     private List<Vector3> Points = new List<Vector3>();
-    // private Vector3[] Points;
-    
-    // Start is called before the first frame update
+   
 
     private  void Awake() 
     {
