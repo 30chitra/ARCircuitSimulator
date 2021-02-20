@@ -7,7 +7,7 @@ using TMPro;
 
 public class OperationAmplifier : MonoBehaviour
 {
-    // Start is called before the first frame update
+   
 
     private GameObject GraphBackground, showGraphButton;
     private GameObject InputWave, OutputWave;
