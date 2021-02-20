@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class ButtonInfo : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
 
     public static string ComponentName;
     public static bool ButtonCheck = false , WireBool = false , NodeBool = false, RotationBool = false;
@@ -57,7 +57,7 @@ public class ButtonInfo : MonoBehaviour
     {
         ButtonCheck = false;
         NodeBool = false;
-        // Instantiate(WireRenderer , new Vector3(0,0,0), Quaternion.identity);
+        
         if (!WireBool)
         {
             WireBool = true;
@@ -99,8 +99,8 @@ public class ButtonInfo : MonoBehaviour
     public void DeleteComponent(GameObject Component)
     {
         Destroy(Component);
-        // instantiate.ComponentPositionList.Remove(Component.transform.position);
+        
     }
 
-    // Update is called once per frame
+    
 }
