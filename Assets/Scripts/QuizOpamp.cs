@@ -30,7 +30,7 @@ public class QuizOpamp : MonoBehaviour
     void Start()
     {
         correctAnsAudio = quizCanvas.transform.Find("CorrectAnsAudio").gameObject;
-        // AlertScreen.SetActive(false);
+      
         quizCanvas.GetComponent<AudioSource>().enabled = false;
 
 
