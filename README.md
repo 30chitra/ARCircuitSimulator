@@ -17,12 +17,13 @@ Features:
 
 <img src="https://user-images.githubusercontent.com/43717429/108607035-e6177700-73e3-11eb-8757-767c908779f0.jpeg" width = "1000" height="400" >
 <img src="https://user-images.githubusercontent.com/43717429/108607049-f4fe2980-73e3-11eb-974c-0795f0e843c5.jpeg" width="1000" height="400" >
-![index](https://user-images.githubusercontent.com/43717429/108608037-2a0d7a80-73ea-11eb-9ab3-8f612c63bcae.jpeg)
-![index8](https://user-images.githubusercontent.com/43717429/108608038-30035b80-73ea-11eb-875c-bc31c57650c8.jpeg)
-![index9](https://user-images.githubusercontent.com/43717429/108608045-372a6980-73ea-11eb-80cd-fc6d14700b7c.png)
-![index6](https://user-images.githubusercontent.com/43717429/108608071-693bcb80-73ea-11eb-8683-bcd1bcd59e51.jpeg)
-![index4](https://user-images.githubusercontent.com/43717429/108608078-76f15100-73ea-11eb-9e31-ed01902f2064.jpeg)
-![index11](https://user-images.githubusercontent.com/43717429/108608080-7a84d800-73ea-11eb-94dc-b6e48362173e.jpeg)
+<img src = "https://user-images.githubusercontent.com/43717429/108608037-2a0d7a80-73ea-11eb-9ab3-8f612c63bcae.jpeg" width = "1000" height="400" >
+<img src = "https://user-images.githubusercontent.com/43717429/108608038-30035b80-73ea-11eb-875c-bc31c57650c8.jpeg"  width = "1000" height="400" >
+<img src = "https://user-images.githubusercontent.com/43717429/108608045-372a6980-73ea-11eb-80cd-fc6d14700b7c.png"  width = "1000" height="400" >
+<img src = "https://user-images.githubusercontent.com/43717429/108608071-693bcb80-73ea-11eb-8683-bcd1bcd59e51.jpeg"  width = "1000" height="400" >
+<img src = "https://user-images.githubusercontent.com/43717429/108608078-76f15100-73ea-11eb-9e31-ed01902f2064.jpeg"  width = "1000" height="400" >
+<img src = "https://user-images.githubusercontent.com/43717429/108608080-7a84d800-73ea-11eb-94dc-b6e48362173e.jpeg"  width = "1000" height="400" >
+
 
 
 
