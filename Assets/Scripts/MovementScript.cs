@@ -5,15 +5,12 @@ using System;
 
 public class MovementScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+   
     private bool isMouseDragging;
     private Vector3 screenPosition, offset;
     private GameObject target;
     public float grid = 1.0f;
-    void Start()
-    {
-        
-    }
+    
 
     // Update is called once per frame
     void Update()
